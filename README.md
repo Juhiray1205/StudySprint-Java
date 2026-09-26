@@ -1,2 +1,2 @@
 # StudySprint-Java
-A personal Java study coach built while learning OOP and GitHub.
+A personal Java study coach built while learning OOP,DSA and GitHub.
